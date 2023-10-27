@@ -1,4 +1,4 @@
-/*Program for traversing array elements.*/
+/*Program to insert the given elements into an array.*/
 #include<stdio.h>
 int main()
 {
